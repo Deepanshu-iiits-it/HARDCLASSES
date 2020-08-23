@@ -1,0 +1,2 @@
+# HARDCLASSES
+django project
